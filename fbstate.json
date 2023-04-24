@@ -1,0 +1,65 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100042448368192%22%3A%22uIn4qCg8%22%2C%22100089751663810%22%3A%22dEeDYDff%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    },
+    {
+        "key": "sb",
+        "value": "CnM8Y5YVUBoOBAJjK3gSK8uq",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    },
+    {
+        "key": "wd",
+        "value": "1337x871",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100083394404035",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    },
+    {
+        "key": "datr",
+        "value": "2vFDZJcyhX0Ecf8tm2Vf2yWO",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    },
+    {
+        "key": "xs",
+        "value": "12%3Ahp_0gNMhWOaRAg%3A2%3A1682174423%3A-1%3A15127%3A%3AAcUkIGcSGYirsHZJ9pN9Z7ULh-I2a2PDEQ6VBf9qvg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    },
+    {
+        "key": "fr",
+        "value": "0JufqBgBDMdHoUye5.AWXfp6v3msBF9xMDg-_A15IQ57c.BkRAYa.r9.AAA.0.0.BkRAYa.AWWHfbp9lg8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-04-22T15:06:20.449Z",
+        "lastAccessed": "2023-04-22T15:06:20.449Z"
+    }
+]
