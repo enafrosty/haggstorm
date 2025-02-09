@@ -2,7 +2,7 @@ import axios from "axios";
 import { Client } from "fca-utils";
 import { Configuration, OpenAIApi } from "openai";
 import { ChatGPTAPI } from 'chatgpt';
-import fetch from 'node-fetch'; // import node-fetch for polyfill
+import fetch from 'node-fetch'; 
 
 const config = new Configuration({
     apiKey: process.env.OPENAI_KEY
